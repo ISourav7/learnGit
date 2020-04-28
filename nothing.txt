@@ -5,8 +5,7 @@ In second commit.
 3rd commit with new branch
 
 
-
+5th commit just for master, removed 4th commit
 
 
 6th commit
-
